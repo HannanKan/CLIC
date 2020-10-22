@@ -77,5 +77,6 @@
         <module>framework</module>
         <module>executable-operator</module>
         <module>backend-executor</module>
+        <module>application</module>
     </modules>
 </project>
